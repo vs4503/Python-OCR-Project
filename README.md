@@ -13,3 +13,6 @@ This project is designed to scan driver's license (DL) images from a webcam and 
 - Flask: Backend server to handle image processing and OCR.
 - Pytesseract: Python library for OCR.
 - EasyOCR: Python library for more advanced OCR capabilities.
+
+## Dependencies
+- Install Pytesseract in the same directory as ocr_scanner.py
