@@ -20,3 +20,4 @@ This project is designed to scan driver's license (DL) images from a webcam and 
 ## Project Structure
 1) OCR Scripts - ocr_scanner.py, along with sample1 & sample4 images form the OCR detection part of the project
 2) Backend - api.py, along with .flaskenv form the Flask backend of the project
+3) Frontend - dlscannerapp folder contains the source files for the React front-end of the project
