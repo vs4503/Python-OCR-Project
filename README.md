@@ -16,3 +16,7 @@ This project is designed to scan driver's license (DL) images from a webcam and 
 
 ## Dependencies
 - Install Pytesseract in the same directory as ocr_scanner.py
+
+## Project Structure
+1) OCR Scripts - ocr_scanner.py, along with sample1 & sample4 images form the OCR detection part of the project
+2) Backend - api.py, along with .flaskenv form the Flask backend of the project
