@@ -8,9 +8,9 @@ app = Flask(__name__)
 @app.route('/data')
 def get_Time():
     return {
-        'Name':'Varun',
-        'Age':'21',
+        'Name':'Vikrant',
+        'Age':'18',
         'Date': date,
-        'HomeTown':'Bengaluru'
+        'HomeTown':'New Delhi'
     }
 
